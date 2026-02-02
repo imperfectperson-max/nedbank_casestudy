@@ -38,25 +38,62 @@ This project demonstrates how banks must operationalize these principles through
 
 ```
 nedbank_casestudy/
-├── README.md                          # Main project documentation
-├── deliverables/                      # All project deliverables
-│   ├── Group1_Sec1_Part1.pdf         # Section 1 written analysis
-│   ├── Group1_Sec1_Part1.pptx        # Section 1 presentation
-│   ├── Group1_Sec1_Part1.xlsx        # Section 1 data analysis
-│   ├── Group1_Sec2_Part1.xlsx        # Section 2 RAROC models
-│   ├── Group1_Sec2_Part2.pptx        # Section 2 presentation
-│   └── Group1_Sec3.pptx              # Section 3 ESG presentation
-├── sections/                          # Section-specific documentation
-│   ├── section1_operational_risk/
-│   │   └── README.md                 # Section 1 detailed overview
-│   ├── section2_credit_risk/
-│   │   └── README.md                 # Section 2 detailed overview
-│   └── section3_esg/
-│       └── README.md                 # Section 3 detailed overview
-└── docs/                              # Reference documentation
-    ├── concepts_reference.md         # Key concepts and definitions
-    └── QUICK_REFERENCE.md            # Quick reference guide
+│
+├── 📄 README.md                          # Main project documentation (you are here)
+├── 🔒 .gitignore                         # Git ignore patterns
+│
+├── 📦 deliverables/                      # All project deliverables
+│   ├── 📘 README.md                      # Deliverables overview
+│   ├── 📄 Group1_Sec1_Part1.pdf         # Section 1: Written analysis
+│   ├── 📊 Group1_Sec1_Part1.pptx        # Section 1: Presentation
+│   ├── 📈 Group1_Sec1_Part1.xlsx        # Section 1: Data analysis
+│   ├── 📈 Group1_Sec2_Part1.xlsx        # Section 2: RAROC models
+│   ├── 📊 Group1_Sec2_Part2.pptx        # Section 2: Presentation
+│   └── 📊 Group1_Sec3.pptx              # Section 3: ESG presentation
+│
+├── 📚 sections/                          # Section-specific documentation
+│   ├── 📘 README.md                      # Sections overview
+│   ├── 📁 section1_operational_risk/    # Section 1: Operational Risk
+│   │   └── 📄 README.md                 # Employee attrition analysis guide
+│   ├── 📁 section2_credit_risk/         # Section 2: Credit Risk
+│   │   └── 📄 README.md                 # RAROC pricing models guide
+│   └── 📁 section3_esg/                 # Section 3: ESG
+│       └── 📄 README.md                 # ESG analysis guide
+│
+└── 📖 docs/                              # Reference documentation
+    ├── 📘 README.md                      # Documentation overview
+    ├── 📄 concepts_reference.md         # Comprehensive concepts & definitions
+    └── 📄 QUICK_REFERENCE.md            # Quick reference & formulas
 ```
+
+### Folder Purpose
+
+| Folder | Purpose | Key Contents |
+|--------|---------|--------------|
+| 📦 **deliverables/** | Final project submissions | Excel workbooks, PowerPoint presentations, PDF documents |
+| 📚 **sections/** | Detailed task requirements | Section-specific READMEs with comprehensive instructions |
+| 📖 **docs/** | Reference materials | Concepts, definitions, formulas, and quick reference guides |
+
+## 🚀 Getting Started
+
+### For New Users
+1. **Start here** - Read this README for project overview
+2. **Understand the sections** - Navigate to [sections/](./sections/) folder
+3. **Review deliverables** - Check [deliverables/](./deliverables/) to see completed work
+4. **Access references** - Use [docs/](./docs/) for formulas and concepts
+
+### For Quick Reference
+- Need a formula? → [Quick Reference Guide](./docs/QUICK_REFERENCE.md)
+- Unfamiliar term? → [Concepts Reference](./docs/concepts_reference.md)
+- Section details? → [Sections Overview](./sections/README.md)
+- View completed work? → [Deliverables](./deliverables/README.md)
+
+### Navigation Tips
+- Each folder contains its own README.md with detailed information
+- Use breadcrumb navigation at the top of section pages to move between areas
+- Cross-references link related sections and documents
+
+
 
 ## 📊 Project Sections
 

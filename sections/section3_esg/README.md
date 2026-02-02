@@ -1,5 +1,7 @@
 # Section 3: Environmental, Social & Governance (ESG) Analysis
 
+> **Navigation**: [Home](../../README.md) > [Sections](../README.md) > Section 3: ESG Analysis
+
 ## 📌 Overview
 
 This section evaluates the ESG initiatives and performance metrics of two financial institutions: Green Horizon Bank and Blue Earth Finance. You'll assess their environmental sustainability, social responsibility, governance practices, and calculate ESG-related financial metrics.
@@ -683,6 +685,15 @@ A successful Section 3 submission will:
 - Basel Committee climate risk guidelines
 - EU Sustainable Finance Disclosure Regulation (SFDR)
 - South African financial sector ESG requirements
+
+---
+
+## 📚 See Also
+
+- **[Section 1: Operational Risk](../section1_operational_risk/README.md)** - Employee attrition analysis
+- **[Section 2: Credit Risk](../section2_credit_risk/README.md)** - RAROC pricing models and Goal Seek analysis
+- **[Reference Documentation](../../docs/README.md)** - Quick reference and concepts guide
+- **[Deliverables](../../deliverables/README.md)** - View completed work
 
 ---
 
