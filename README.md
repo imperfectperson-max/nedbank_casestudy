@@ -18,7 +18,7 @@
 
 ## 📋 Project Overview
 
-This repository contains the complete case study analysis for the Nedbank Quantitative Finance (QYF) Virtual Internship Assessment 2026. The project explores critical banking concepts including operational risk, credit risk, and ESG (Environmental, Social, and Governance) factors in the context of the G20 Summit 2025 commitments.
+This repository contains the complete case study analysis for the QYF Virtual Internship Assessment 2026. The project explores critical banking concepts including operational risk, credit risk, and ESG (Environmental, Social, and Governance) factors in the context of the G20 Summit 2025 commitments.
 
 The project examines how banks must embed resilience and responsibility into their strategies, addressing:
 - **Operational Risk**: Employee attrition and its impact on banking stability
