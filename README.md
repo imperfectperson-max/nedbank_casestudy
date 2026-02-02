@@ -1,4 +1,4 @@
-# Nedbank QYF Virtual Internship 2025
+# Nedbank QYF Virtual Internship 2026
 ## Theme: Risk, Resilience and Responsibility - Banking in the G20 Era
 
 [![Project Status](https://img.shields.io/badge/Status-Completed-success)]()
