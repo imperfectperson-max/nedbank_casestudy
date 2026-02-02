@@ -1,5 +1,7 @@
 # Section 1: Operational Risk - Employee Attrition Analysis
 
+> **Navigation**: [Home](../../README.md) > [Sections](../README.md) > Section 1: Operational Risk
+
 ## 📌 Overview
 
 This section focuses on understanding employee attrition as a critical operational risk in the banking sector. The Operational Risk Analytics Team requires comprehensive data analysis and strategic insights to address the growing challenge of employee turnover at Nedbank.
@@ -299,6 +301,15 @@ A successful Section 1 submission will:
 4. ✅ Offer practical, impactful recommendations
 5. ✅ Deliver professional presentation
 6. ✅ Show strong team collaboration
+
+---
+
+## 📚 See Also
+
+- **[Section 2: Credit Risk](../section2_credit_risk/README.md)** - RAROC pricing models and Goal Seek analysis
+- **[Section 3: ESG Analysis](../section3_esg/README.md)** - Environmental, Social, and Governance comparison
+- **[Reference Documentation](../../docs/README.md)** - Quick reference and concepts guide
+- **[Deliverables](../../deliverables/README.md)** - View completed work
 
 ---
 

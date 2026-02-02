@@ -1,5 +1,7 @@
 # Section 2: Credit Risk - RAROC Pricing Models
 
+> **Navigation**: [Home](../../README.md) > [Sections](../README.md) > Section 2: Credit Risk
+
 ## 📌 Overview
 
 This section focuses on credit risk management through Risk-Adjusted Return on Capital (RAROC) pricing models. You'll evaluate a corporate loan application using sophisticated financial modeling techniques to determine profitability and optimal pricing.
@@ -507,6 +509,15 @@ A successful Section 2 submission will:
 - Typical hurdle rates: 12-18%
 - Top-tier banks target: 15-20%
 - Minimum acceptable: 10-12%
+
+---
+
+## 📚 See Also
+
+- **[Section 1: Operational Risk](../section1_operational_risk/README.md)** - Employee attrition analysis
+- **[Section 3: ESG Analysis](../section3_esg/README.md)** - Environmental, Social, and Governance comparison
+- **[Reference Documentation](../../docs/README.md)** - Quick reference and concepts guide
+- **[Deliverables](../../deliverables/README.md)** - View completed work
 
 ---
 

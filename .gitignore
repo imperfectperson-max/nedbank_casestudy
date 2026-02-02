@@ -1,0 +1,48 @@
+# Office temporary files
+~$*.xlsx
+~$*.pptx
+~$*.docx
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*~
+
+# Temporary files
+/tmp/
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python (if used for analysis)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# R (if used for analysis)
+.RData
+.Rhistory
+.Rproj.user
+
+# Excel temporary
+~$*
+
+# Video files (if needed to be excluded)
+*.mp4
+*.avi
+*.mov
+*.wmv
