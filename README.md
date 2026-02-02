@@ -4,6 +4,18 @@
 [![Project Status](https://img.shields.io/badge/Status-Completed-success)]()
 [![Assessment Year](https://img.shields.io/badge/Year-2026-blue)]()
 
+## 📚 Quick Navigation
+
+- [Project Overview](#-project-overview)
+- [Repository Structure](#-repository-structure)
+- [Project Sections](#-project-sections)
+  - [Section 1: Operational Risk](./sections/section1_operational_risk/README.md)
+  - [Section 2: Credit Risk](./sections/section2_credit_risk/README.md)
+  - [Section 3: ESG Analysis](./sections/section3_esg/README.md)
+- [Key Concepts](#-key-concepts)
+- [Deliverables](#-deliverables-checklist)
+- [Reference Documentation](#-reference-documentation)
+
 ## 📋 Project Overview
 
 This repository contains the complete case study analysis for the Nedbank Quantitative Finance (QYF) Virtual Internship Assessment 2026. The project explores critical banking concepts including operational risk, credit risk, and ESG (Environmental, Social, and Governance) factors in the context of the G20 Summit 2025 commitments.
@@ -25,26 +37,25 @@ This project demonstrates how banks must operationalize these principles through
 ## 📂 Repository Structure
 
 ```
-nedbank-qyf-2025/
+nedbank_casestudy/
 ├── README.md                          # Main project documentation
-├── section1_operational_risk/
-│   ├── README.md                      # Section 1 overview
-│   ├── analysis/                      # Data analysis files
-│   ├── data/                          # Raw and cleaned datasets
-│   └── deliverables/                  # Final submissions
-├── section2_credit_risk/
-│   ├── README.md                      # Section 2 overview
-│   ├── models/                        # RAROC pricing models
-│   ├── calculations/                  # Excel workbooks
-│   └── deliverables/                  # Final submissions
-├── section3_esg/
-│   ├── README.md                      # Section 3 overview
-│   ├── analysis/                      # ESG metrics analysis
-│   └── deliverables/                  # Final submissions
-└── docs/
-    ├── concepts.md                    # Key concepts and definitions
-    ├── methodologies.md               # Technical methodologies
-    └── references.md                  # Additional resources
+├── deliverables/                      # All project deliverables
+│   ├── Group1_Sec1_Part1.pdf         # Section 1 written analysis
+│   ├── Group1_Sec1_Part1.pptx        # Section 1 presentation
+│   ├── Group1_Sec1_Part1.xlsx        # Section 1 data analysis
+│   ├── Group1_Sec2_Part1.xlsx        # Section 2 RAROC models
+│   ├── Group1_Sec2_Part2.pptx        # Section 2 presentation
+│   └── Group1_Sec3.pptx              # Section 3 ESG presentation
+├── sections/                          # Section-specific documentation
+│   ├── section1_operational_risk/
+│   │   └── README.md                 # Section 1 detailed overview
+│   ├── section2_credit_risk/
+│   │   └── README.md                 # Section 2 detailed overview
+│   └── section3_esg/
+│       └── README.md                 # Section 3 detailed overview
+└── docs/                              # Reference documentation
+    ├── concepts_reference.md         # Key concepts and definitions
+    └── QUICK_REFERENCE.md            # Quick reference guide
 ```
 
 ## 📊 Project Sections
@@ -63,7 +74,7 @@ nedbank-qyf-2025/
 - Data-driven HR analytics
 - Mitigation strategies
 
-[📖 View Section 1 Details](./section1_operational_risk/README.md)
+[📖 View Section 1 Details](./sections/section1_operational_risk/README.md)
 
 ---
 
@@ -89,7 +100,7 @@ nedbank-qyf-2025/
 - Risk-Adjusted Return on Capital (RAROC)
 - Economic Profit (EP)
 
-[📖 View Section 2 Details](./section2_credit_risk/README.md)
+[📖 View Section 2 Details](./sections/section2_credit_risk/README.md)
 
 ---
 
@@ -115,7 +126,7 @@ nedbank-qyf-2025/
 - Data security and risk management
 - Long-term benefits of ESG investment
 
-[📖 View Section 3 Details](./section3_esg/README.md)
+[📖 View Section 3 Details](./sections/section3_esg/README.md)
 
 ---
 
@@ -212,6 +223,21 @@ Upon completion of this project, participants will:
    - Data cleaning and analysis
    - Business presentation and communication
    - Video production and delivery
+
+## 📚 Reference Documentation
+
+This repository includes comprehensive reference materials to support your understanding:
+
+- **[Quick Reference Guide](./docs/QUICK_REFERENCE.md)**: Essential formulas, timelines, and deliverable checklists
+- **[Concepts Reference](./docs/concepts_reference.md)**: Detailed definitions of all key concepts and methodologies
+
+These documents provide quick access to:
+- Key formulas and calculations
+- Basel framework definitions
+- RAROC methodology
+- ESG pillars and metrics
+- Common pitfalls to avoid
+- Quality checklists
 
 ## 🔗 Additional Resources
 
